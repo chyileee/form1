@@ -1,0 +1,17 @@
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\learning1.csprojResolveAssemblyReference.cache
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\learning1.csproj.GenerateResource.Cache
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\vs_code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\vs_code\Form_learning\Form_learning\bin\Debug\WindowsFormsApplication1.exe.config
+D:\vs_code\Form_learning\Form_learning\obj\Debug\WindowsFormsApplication1.exe
+D:\vs_code\Form_learning\Form_learning\obj\Debug\WindowsFormsApplication1.pdb
+D:\vs_code\Form_learning\Form_learning\bin\Debug\WindowsFormsApplication1.exe
+D:\vs_code\Form_learning\Form_learning\bin\Debug\WindowsFormsApplication1.pdb
+D:\vs_code\Form_learning\Form_learning\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\vs_code\Form_learning\Form_learning\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\vs_code\Form_learning\Form_learning\obj\Debug\learning1.csproj.GenerateResource.Cache
